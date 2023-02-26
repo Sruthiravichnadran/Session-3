@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Noto+Serif&display=swap');
+
+
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+.card-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    justifi
+
+}
+
+.card{
+    width: 40%;
+    border: 1px solid gray;
+    
+    border-radius: 15px;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.card-img{
+    border-radius: 25px;
+    height: 200px;
+    
+}
+
+.left{
+   margin-top: 31px;
+}
+
+h3{
+    color: rgba(2, 2, 73, 0.89);
+}
+
+.icon{
+    padding-bottom: 30px;
+}
